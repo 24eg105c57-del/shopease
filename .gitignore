@@ -1,0 +1,24 @@
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+*.log
+
+# Maven & Java
+backend/target/
+
+# Node / React Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.cache/
+
+# Python / AI Service
+ai-service/__pycache__/
+ai-service/venv/
+ai-service/.venv/
+
+# Environment files
+.env
+.env.local
